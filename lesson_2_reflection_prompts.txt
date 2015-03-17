@@ -13,13 +13,18 @@ repository?
   committed as well as files that will never be committed and tracked.  
 
 What value do you think it offers?
+  This allows you to keep committed file separate from working directory files
+  while managing the change/update process.  It reduces the likelihood of
+  dumping a file that you would otherwise want to retain.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+  By checking to make sure that the working directory copy of a file is the
+  same as the stagining area (i.e.no differences) and the repository version
+  does differ from the staging area.
 
-What are some situations when branches would be helpful in keeping your
-history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your 
+historyorganized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
