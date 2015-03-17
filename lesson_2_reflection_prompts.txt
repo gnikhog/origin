@@ -7,6 +7,11 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the
 repository?
+  The staging area is temporary holding location for snapshots of files in the
+  current working directory prior to being committed and tracked in the git
+  respository. The working directory is used to hold file that may be
+  committed as well as files that will never be committed and tracked.  
+
 What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
