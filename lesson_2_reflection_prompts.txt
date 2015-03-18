@@ -23,8 +23,12 @@ change?
   same as the stagining area (i.e.no differences) and the repository version
   does differ from the staging area.
 
-What are some situations when branches would be helpful in keeping your 
-historyorganized? How would branches help?
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+  Branches could be helpful while developing new functionality or methods to
+  avoid ruining the performance of an existing (master) branch. They could
+  also be useful in sharing with others or to demark a specific time/
+  functionality  while develpment contiues.
 
 How do the diagrams help you visualize the branch structure?
 
