@@ -45,6 +45,14 @@ the diagram the way we do?
   branches to better understand what changes were committed where prior to
   and including the merge of branches.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing
-merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always doing
+merges manually?
+  Pros:
+  1- Time and effort saver
+  2- Only required to address conflicts
+  3- Highlights the area of conflict and displays the differing code plus
+     the original code.
+  Cons:
+  1- More tedious to manage (i.e. locate conflicting code)
+  2- More prone to errors of omission or possible failure to completely
+     resolve conflicts
