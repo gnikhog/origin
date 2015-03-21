@@ -36,6 +36,14 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+  The result is a combination of the changes in both (all) branches subject to
+  a few rules:
+    1- Unchanged lines are included
+    2- Deleted lines are excluded
+    3- Added line are included
+  git log --graph --oneline allows you to follow all the commits for all
+  branches to better understand what changes were committed where prior to
+  and including the merge of branches.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing
 merges
