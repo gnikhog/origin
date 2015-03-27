@@ -10,3 +10,11 @@ automatically stay up-to-date with your remote repository?
   someone else be working on the same file and issuing commits.  Manual pulls
   ensure that you only update your file(s) when you are ready.
 
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+  Branches occur only within a given repository and are used to explore or to
+  develop changes in the code or to otherwise label a give code version.
+  Clones are copies of repositories that can be locally or remotely located.
+  These are used to make copies of entire repositories.  Forks are essentially
+  clones of repositories but retain links to the original repsository and is
+  completely created while on the GitHub website.
