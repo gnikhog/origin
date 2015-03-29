@@ -18,3 +18,11 @@ use one instead of another?
   These are used to make copies of entire repositories.  Forks are essentially
   clones of repositories but retain links to the original repsository and is
   completely created while on the GitHub website.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+  It allows you to work with the most recent copy of files in case you need to
+  work remotely without network/Internet access. It also provides a backup
+  copy of the remote repo in the event of a remote repo storage disaster/loss.
+
+
