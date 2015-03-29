@@ -25,4 +25,12 @@ stored locally?
   work remotely without network/Internet access. It also provides a backup
   copy of the remote repo in the event of a remote repo storage disaster/loss.
 
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+  If I was familiar with other revision control system tools, I'm sure that
+  I would have a quick answer. Since I don't, collaboration would be
+  a tedious, manual process that would be very difficult to manage depending
+  upon the number of contributers and the frequency of changes/commits.
+  Just managing my own changes is difficult enough without the use of a
+  rev. control system/tool.  I don't want to even consider managing more!
 
