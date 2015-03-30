@@ -34,3 +34,13 @@ and what would be harder?
   Just managing my own changes is difficult enough without the use of a
   rev. control system/tool.  I don't want to even consider managing more!
 
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+  Making changes in a separate branch is very appropriate for project where
+  multiple people are collaboration and potentially changing the same files
+  at the same time. Branches also help to isolate changes that have not been
+  thoroughly tested.  Keeping changes in a branch also helps to keep others
+  who are reviewing and otherwise providing feedback to look a stationary
+  codeset so as not to have to review a moving target.
+
+
